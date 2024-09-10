@@ -10,6 +10,7 @@ This project is a simple calculator application developed using *Java Swing*. Th
 - *Clear Button:* Resets the display to start a new calculation.
 - *Decimal Support:* Allows decimal point input for floating-point calculations.
 - *User-Friendly Interface:* Responsive buttons and display area.
+## video ot calculator
 
 ## Code Structure
 
@@ -22,6 +23,7 @@ This project is a simple calculator application developed using *Java Swing*. Th
 - **JFrame (jf): The main window of the application.
 - **JLabel (displayLabel): Acts as the display screen where the input and output are shown.
 - *JButton*: Used for all the number buttons (0-9), operator buttons (+, -, *, /, %), and special buttons like "=", "C", and ".".
+  
 
 ### Event Handling
 
